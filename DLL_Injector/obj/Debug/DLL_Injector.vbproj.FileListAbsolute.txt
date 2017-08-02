@@ -1,0 +1,11 @@
+C:\Users\Connor\Desktop\DLL_Injector\DLL_Injector\DLL_Injector\bin\Debug\DLL_Injector.exe.config
+C:\Users\Connor\Desktop\DLL_Injector\DLL_Injector\DLL_Injector\bin\Debug\DLL_Injector.exe
+C:\Users\Connor\Desktop\DLL_Injector\DLL_Injector\DLL_Injector\bin\Debug\DLL_Injector.pdb
+C:\Users\Connor\Desktop\DLL_Injector\DLL_Injector\DLL_Injector\bin\Debug\DLL_Injector.xml
+C:\Users\Connor\Desktop\DLL_Injector\DLL_Injector\DLL_Injector\obj\Debug\DLL_Injector.vbprojResolveAssemblyReference.cache
+C:\Users\Connor\Desktop\DLL_Injector\DLL_Injector\DLL_Injector\obj\Debug\DLL_Injector.Form1.resources
+C:\Users\Connor\Desktop\DLL_Injector\DLL_Injector\DLL_Injector\obj\Debug\DLL_Injector.Resources.resources
+C:\Users\Connor\Desktop\DLL_Injector\DLL_Injector\DLL_Injector\obj\Debug\DLL_Injector.vbproj.GenerateResource.Cache
+C:\Users\Connor\Desktop\DLL_Injector\DLL_Injector\DLL_Injector\obj\Debug\DLL_Injector.exe
+C:\Users\Connor\Desktop\DLL_Injector\DLL_Injector\DLL_Injector\obj\Debug\DLL_Injector.xml
+C:\Users\Connor\Desktop\DLL_Injector\DLL_Injector\DLL_Injector\obj\Debug\DLL_Injector.pdb
